@@ -15,4 +15,4 @@ Achieved 73% accuracy with Decision Tree Classifier, demonstrating promising pre
 ![Confusion Matrix](ConfusionMatrix.png)
 
 **Conclusion:**
-Successfully analyzed and predicted diabetes outcomes, emphasizing the importance of early intervention. Further enhancements include exploring other ML algorithms and tuning hyperparameters for improved performance.
+In conclusion, this project analyzed and predicted diabetes outcomes using a cleaned dataset, leveraging KNN imputation and outlier removal. EDA provided insights, and a decision tree classifier trained with PySpark achieved 73% accuracy. These findings inform diabetes risk assessment, with potential for further enhancement through algorithm exploration and feature incorporation.
