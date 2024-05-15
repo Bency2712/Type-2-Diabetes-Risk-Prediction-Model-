@@ -12,7 +12,7 @@ Processed data with Pandas, imputed missing values using KNN, removed outliers, 
 **Metric Evaluation & Results:**
 Achieved 73% accuracy with Decision Tree Classifier, demonstrating promising precision, recall, and F1 score. Confusion matrix and classification report validate model effectiveness.
 
-![Confusion Matrix](ConfusionMatrix.png)
+![Confusion Matrix](confusionMatrix.jpg)
 
 **Conclusion:**
 Successfully analyzed and predicted diabetes outcomes, emphasizing the importance of early intervention. Further enhancements include exploring other ML algorithms and tuning hyperparameters for improved performance.
